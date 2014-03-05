@@ -1,0 +1,38 @@
+Settings	sector	\OEJD.sct
+Settings	Settingsfile	\OEJD-settings.txt
+Settings	AselKey	1769472
+Settings	FreqKey	2818048
+Voice	PPPT	3538944
+Settings	alias	\alias.txt
+Settings	AtisFolder	\UniATIS_OEJN\atisfiles.txt
+Voice	SPPT	1900544
+Settings	SettingsfileSYMBOLOGY	\OEJD-settings.txt
+Settings	SettingsfileVOICE	\OEJD-settings.txt
+Settings	SettingsfilePROFILE	\OEJD-login.txt
+Settings	SettingsfileTAGS	\OEJD-settings.txt
+Settings	SettingsfileSIL	\OEJD-settings.txt
+Settings	SettingsfileSEL	\OEJD-settings.txt
+Settings	SettingsfileDEP	\OEJD-settings.txt
+Settings	SettingsfilePLUGINS	\OEJD-settings.txt
+Settings	SettingsfileSCREEN	\OEJD-settings.txt
+Voice	Grammar	\..\Settings\ESGrammar.txt
+Settings	SectorFileProviderDescriptor	\..\SectorFileProviderDescriptor.txt
+RecentFiles	Recent1	\OEJD.asr
+Settings	SettingsfileARR	\OEJD-settings.txt
+Settings	SettingsfileFP	\OEJD-settings.txt
+Settings	SettingsfileCONFLICT	\OEJD-settings.txt
+LastSession	callsign	OEJD_CTR
+Voice	input_hardware	Wave - Microphone (2- High Definition 
+Voice	output_hardware	Wave - Speakers (2- High Definition Au
+Voice	input_hardware2	Wave - Microphone (2- High Definition 
+Voice	output_hardware2	Wave - Speakers (2- High Definition Au
+Voice	squelch	76.1
+LastSession	connecttype	0
+LastSession	facility	6
+LastSession	rating	4
+LastSession	atis2	Jeddah Control
+LastSession	atis3	Report position and altitude on initial contact
+LastSession	atis4	Visit vatsau.vatme.net
+LastSession	range	600
+LastSession	atis_airport	OERK
+LastSession	atis_letter	65
