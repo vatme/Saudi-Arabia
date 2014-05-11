@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Syam\Documents\EuroScope\OEJD\OEJD.sct
+SECTORFILE:\OEJD.sct
 SECTORTITLE:OEJD.sct
 Airports:OEAB:name
 Airports:OEAD:name
@@ -53,6 +53,34 @@ ARTCC boundary:F:
 ARTCC high boundary:F:
 ARTCC high boundary:H:
 ARTCC low boundary:L:
+Free Text:Group\HECC:freetext
+Free Text:Group\HECC:freetext
+Free Text:Group\HECC:freetext
+Free Text:Group\HSSS:freetext
+Free Text:Group\Mogadishu:freetext
+Free Text:Group\OBBB:freetext
+Free Text:Group\OBBB:freetext
+Free Text:Group\OEDF:freetext
+Free Text:Group\OEJN:freetext
+Free Text:Group\OEPS:freetext
+Free Text:Group\OERK:freetext
+Free Text:Group\OETB:freetext
+Free Text:Group\OJAC:freetext
+Free Text:Group\OJAC:freetext
+Free Text:Group\OJAC:freetext
+Free Text:Group\OKAC:freetext
+Free Text:Group\OKAC:freetext
+Free Text:Group\OMAE:freetext
+Free Text:Group\OMAE:freetext
+Free Text:Group\OOMM:freetext
+Free Text:Group\OOMM:freetext
+Free Text:Group\OOMM:freetext
+Free Text:Group\ORBB:freetext
+Free Text:Group\ORBB:freetext
+Free Text:Group\ORBB:freetext
+Free Text:Group\OYSC:freetext
+Free Text:Group\OYSC:freetext
+Free Text:Group\OYSC:freetext
 Free Text:OEDF\1:freetext
 Free Text:OEDF\1:freetext
 Free Text:OEDF\1:freetext
@@ -766,7 +794,6 @@ Geo:OET3:
 Geo:OET4:
 Geo:OET5:
 Geo:OET6:
-Geo:OET8 OET7:
 Geo:OET9:
 Geo:OETB:
 Runways:OEJN King Abdulaziz Intl 16C-34C:centerline
@@ -1065,4 +1092,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:GSiT
-WINDOWAREA:10.986923:19.709414:32.870099:72.910261
+WINDOWAREA:11.310290:20.775849:34.658698:74.038261

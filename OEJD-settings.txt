@@ -926,7 +926,7 @@ TAGITEM:17::0:1:10:14::0:1:::1
 END
 SIL
 m_Visible:1
-m_X:1060
+m_X:986
 m_Y:842
 m_LineNumber:6
 m_Resizable:1
