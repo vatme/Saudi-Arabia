@@ -156,34 +156,64 @@ Free Text:HECA\Y:freetext
 Free Text:HECA\Z:freetext
 Free Text:HESH:freetext
 Free Text:HESH\1:freetext
+Free Text:HESH\1:freetext
+Free Text:HESH\10:freetext
 Free Text:HESH\10:freetext
 Free Text:HESH\11:freetext
+Free Text:HESH\11:freetext
+Free Text:HESH\12:freetext
 Free Text:HESH\12:freetext
 Free Text:HESH\13:freetext
 Free Text:HESH\13:freetext
+Free Text:HESH\13:freetext
+Free Text:HESH\13:freetext
+Free Text:HESH\14:freetext
 Free Text:HESH\14:freetext
 Free Text:HESH\15:freetext
+Free Text:HESH\15:freetext
+Free Text:HESH\16:freetext
 Free Text:HESH\16:freetext
 Free Text:HESH\2:freetext
+Free Text:HESH\2:freetext
+Free Text:HESH\3:freetext
 Free Text:HESH\3:freetext
 Free Text:HESH\4:freetext
+Free Text:HESH\4:freetext
+Free Text:HESH\5:freetext
 Free Text:HESH\5:freetext
 Free Text:HESH\6:freetext
+Free Text:HESH\6:freetext
 Free Text:HESH\7:freetext
+Free Text:HESH\7:freetext
+Free Text:HESH\8:freetext
 Free Text:HESH\8:freetext
 Free Text:HESH\9:freetext
 Free Text:HESH\9:freetext
+Free Text:HESH\9:freetext
+Free Text:HESH\9:freetext
+Free Text:HESH\A:freetext
 Free Text:HESH\A:freetext
 Free Text:HESH\B:freetext
+Free Text:HESH\B:freetext
+Free Text:HESH\C:freetext
 Free Text:HESH\C:freetext
 Free Text:HESH\D:freetext
+Free Text:HESH\D:freetext
+Free Text:HESH\E:freetext
 Free Text:HESH\E:freetext
 Free Text:HESH\F:freetext
+Free Text:HESH\F:freetext
+Free Text:HESH\G:freetext
 Free Text:HESH\G:freetext
 Free Text:HESH\H:freetext
+Free Text:HESH\H:freetext
+Free Text:HESH\I:freetext
 Free Text:HESH\I:freetext
 Free Text:HESH\J:freetext
+Free Text:HESH\J:freetext
 Free Text:HESH\K:freetext
+Free Text:HESH\K:freetext
+Free Text:HESH\L:freetext
 Free Text:HESH\L:freetext
 Free Text:HSSS\1:freetext
 Free Text:HSSS\10:freetext
@@ -1759,6 +1789,10 @@ Free Text:OERK\ROY1:freetext
 Free Text:OERK\ROY2:freetext
 Free Text:OERK\S:freetext
 Free Text:OERK\T:freetext
+Free Text:OERR:freetext
+Free Text:OERR\1:freetext
+Free Text:OERR\2:freetext
+Free Text:OERR\3:freetext
 Free Text:OERY\A:freetext
 Free Text:OERY\A1:freetext
 Free Text:OERY\A2:freetext
@@ -1773,6 +1807,14 @@ Free Text:OERY\B5:freetext
 Free Text:OERY\B6:freetext
 Free Text:OERY\B7:freetext
 Free Text:OERY\B8:freetext
+Free Text:OESH:freetext
+Free Text:OESH\1:freetext
+Free Text:OESH\2:freetext
+Free Text:OESH\A:freetext
+Free Text:OESH\B:freetext
+Free Text:OESH\C:freetext
+Free Text:OESH\D:freetext
+Free Text:OESH\G1:freetext
 Free Text:OESK:freetext
 Free Text:OESK\1:freetext
 Free Text:OESK\2:freetext
@@ -2198,6 +2240,10 @@ Free Text:OETR:freetext
 Free Text:OETR\1:freetext
 Free Text:OETR\2:freetext
 Free Text:OETR\G1:freetext
+Free Text:OEWD:freetext
+Free Text:OEWD\2:freetext
+Free Text:OEWD\3:freetext
+Free Text:OEWD\G1:freetext
 Free Text:OEWJ:freetext
 Free Text:OEWJ\1:freetext
 Free Text:OEWJ\2:freetext
@@ -2610,7 +2656,9 @@ Geo:OEPA:
 Geo:OEPS:
 Geo:OERF:
 Geo:OERK:
+Geo:OERR:
 Geo:OERY:
+Geo:OESH:
 Geo:OESK:
 Geo:OET1:
 Geo:OET2:
@@ -2622,6 +2670,7 @@ Geo:OET9:
 Geo:OETB:
 Geo:OETF:
 Geo:OETR:
+Geo:OEWD:
 Geo:OEWJ:
 Geo:OEYN:
 Geo:OIII:
