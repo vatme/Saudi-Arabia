@@ -23,7 +23,6 @@ Airports:OEHW:name
 Airports:OEJN:name
 Airports:OEKK:name
 Airports:OEKM:name
-Airports:OEKR:name
 Airports:OEMA:name
 Airports:OENG:name
 Airports:OEPA:name
@@ -40,7 +39,6 @@ Airports:OERR:name
 Airports:OERY:name
 Airports:OESH:name
 Airports:OESK:name
-Airports:OESL:name
 Airports:OETB:name
 Airports:OETF:name
 Airports:OETN:name
@@ -95,7 +93,6 @@ Free Text:Group\ORBB:freetext
 Free Text:Group\OYSC:freetext
 Free Text:Group\OYSC:freetext
 Free Text:Group\OYSC:freetext
-Free Text:HECA:freetext
 Free Text:HECA\1:freetext
 Free Text:HECA\1:freetext
 Free Text:HECA\1:freetext
@@ -152,9 +149,6 @@ Free Text:HECA\U:freetext
 Free Text:HECA\V:freetext
 Free Text:HECA\W:freetext
 Free Text:HECA\X:freetext
-Free Text:HECA\Y:freetext
-Free Text:HECA\Z:freetext
-Free Text:HESH:freetext
 Free Text:HESH\1:freetext
 Free Text:HESH\1:freetext
 Free Text:HESH\10:freetext
@@ -229,7 +223,6 @@ Free Text:HSSS\A:freetext
 Free Text:HSSS\B:freetext
 Free Text:HSSS\C:freetext
 Free Text:HSSS\D:freetext
-Free Text:OBBI:freetext
 Free Text:OBBI\11:freetext
 Free Text:OBBI\13:freetext
 Free Text:OBBI\15:freetext
@@ -285,15 +278,9 @@ Free Text:OEAB\7:freetext
 Free Text:OEAB\8:freetext
 Free Text:OEAB\9:freetext
 Free Text:OEAB\A:freetext
-Free Text:OEAB\A1:freetext
-Free Text:OEAB\A2:freetext
-Free Text:OEBA:freetext
 Free Text:OEBA\1:freetext
 Free Text:OEBA\2:freetext
 Free Text:OEBA\3:freetext
-Free Text:OEBA\4:freetext
-Free Text:OEBA\G1:freetext
-Free Text:OEBH:freetext
 Free Text:OEBH\1:freetext
 Free Text:OEBH\2:freetext
 Free Text:OEBH\3:freetext
@@ -676,7 +663,6 @@ Free Text:OEGN\A1:freetext
 Free Text:OEGN\A2:freetext
 Free Text:OEGN\G1:freetext
 Free Text:OEGN\N:freetext
-Free Text:OEGS:freetext
 Free Text:OEGS\1:freetext
 Free Text:OEGS\2:freetext
 Free Text:OEGS\3:freetext
@@ -685,20 +671,15 @@ Free Text:OEGS\A:freetext
 Free Text:OEGS\A1:freetext
 Free Text:OEGS\A2:freetext
 Free Text:OEGS\G1:freetext
-Free Text:OEGT:freetext
 Free Text:OEGT\1:freetext
 Free Text:OEGT\2:freetext
 Free Text:OEGT\3:freetext
 Free Text:OEGT\4:freetext
-Free Text:OEGT\G1:freetext
-Free Text:OEGT\G2:freetext
-Free Text:OEHL:freetext
 Free Text:OEHL\1:freetext
 Free Text:OEHL\2:freetext
 Free Text:OEHL\A:freetext
 Free Text:OEHL\A2:freetext
 Free Text:OEHL\G1:freetext
-Free Text:OEJB:freetext
 Free Text:OEJB\1:freetext
 Free Text:OEJB\1:freetext
 Free Text:OEJB\2:freetext
@@ -1518,11 +1499,9 @@ Free Text:OEMA\E:freetext
 Free Text:OEMA\F:freetext
 Free Text:OEMA\G:freetext
 Free Text:OEMA\H:freetext
-Free Text:OENG:freetext
 Free Text:OENG\1:freetext
 Free Text:OENG\2:freetext
 Free Text:OENG\G1:freetext
-Free Text:OEPA:freetext
 Free Text:OEPA\1:freetext
 Free Text:OEPA\2:freetext
 Free Text:OEPA\3:freetext
@@ -1692,8 +1671,6 @@ Free Text:OEPS\O:freetext
 Free Text:OEPS\P:freetext
 Free Text:OEPS\Q:freetext
 Free Text:OEPS\R:freetext
-Free Text:OEPS\T:freetext
-Free Text:OERF:freetext
 Free Text:OERF\1:freetext
 Free Text:OERF\2:freetext
 Free Text:OERF\3:freetext
@@ -1789,7 +1766,6 @@ Free Text:OERK\ROY1:freetext
 Free Text:OERK\ROY2:freetext
 Free Text:OERK\S:freetext
 Free Text:OERK\T:freetext
-Free Text:OERR:freetext
 Free Text:OERR\1:freetext
 Free Text:OERR\2:freetext
 Free Text:OERR\3:freetext
@@ -1807,7 +1783,6 @@ Free Text:OERY\B5:freetext
 Free Text:OERY\B6:freetext
 Free Text:OERY\B7:freetext
 Free Text:OERY\B8:freetext
-Free Text:OESH:freetext
 Free Text:OESH\1:freetext
 Free Text:OESH\2:freetext
 Free Text:OESH\A:freetext
@@ -1815,7 +1790,6 @@ Free Text:OESH\B:freetext
 Free Text:OESH\C:freetext
 Free Text:OESH\D:freetext
 Free Text:OESH\G1:freetext
-Free Text:OESK:freetext
 Free Text:OESK\1:freetext
 Free Text:OESK\2:freetext
 Free Text:OESK\A:freetext
@@ -2236,19 +2210,13 @@ Free Text:OETF\96:freetext
 Free Text:OETF\97:freetext
 Free Text:OETF\98:freetext
 Free Text:OETF\99:freetext
-Free Text:OETR:freetext
 Free Text:OETR\1:freetext
 Free Text:OETR\2:freetext
 Free Text:OETR\G1:freetext
-Free Text:OEWD:freetext
 Free Text:OEWD\2:freetext
-Free Text:OEWD\3:freetext
-Free Text:OEWD\G1:freetext
-Free Text:OEWJ:freetext
 Free Text:OEWJ\1:freetext
 Free Text:OEWJ\2:freetext
 Free Text:OEWJ\3:freetext
-Free Text:OEYN:freetext
 Free Text:OEYN\1:freetext
 Free Text:OEYN\1:freetext
 Free Text:OEYN\2:freetext
@@ -2387,7 +2355,6 @@ Free Text:OJAI\N:freetext
 Free Text:OJAI\N:freetext
 Free Text:OJAI\S:freetext
 Free Text:OJAI\S:freetext
-Free Text:OJAQ:freetext
 Free Text:OJAQ\1:freetext
 Free Text:OJAQ\2:freetext
 Free Text:OJAQ\3:freetext
@@ -2395,7 +2362,6 @@ Free Text:OJAQ\4:freetext
 Free Text:OJAQ\A:freetext
 Free Text:OJAQ\B:freetext
 Free Text:OJAQ\G1:freetext
-Free Text:OKBK:freetext
 Free Text:OKBK\1:freetext
 Free Text:OKBK\1:freetext
 Free Text:OKBK\10:freetext
@@ -2502,7 +2468,6 @@ Free Text:OMAA\X:freetext
 Free Text:OMAA\X:freetext
 Free Text:OMAA\Y:freetext
 Free Text:OMAA\Z:freetext
-Free Text:OMDB:freetext
 Free Text:OMDB\1:freetext
 Free Text:OMDB\A:freetext
 Free Text:OMDB\A14:freetext
@@ -2600,9 +2565,6 @@ Free Text:OMSJ\F:freetext
 Free Text:OMSJ\G:freetext
 Free Text:OMSJ\J:freetext
 Free Text:OMSJ\K:freetext
-Free Text:OMSJ\L:freetext
-Free Text:OMSJ\M:freetext
-Free Text:ORBS:freetext
 Free Text:ORBS\1:freetext
 Free Text:ORBS\2:freetext
 Free Text:ORBS\3:freetext
@@ -2630,6 +2592,16 @@ Free Text:ORBS\S5:freetext
 Free Text:ORBS\S6:freetext
 Free Text:ORBS\W:freetext
 Free Text:ORBS\X:freetext
+Free Text:Sectors\OEJD_C_CTR:freetext
+Free Text:Sectors\OEJD_E_CTR SFC-FL345:freetext
+Free Text:Sectors\OEJD_N_CTR SFC-FL345:freetext
+Free Text:Sectors\OEJD_NE_CTR SFC-FL345:freetext
+Free Text:Sectors\OEJD_S_CTR:freetext
+Free Text:Sectors\OEJD_SE_CTR:freetext
+Free Text:Sectors\OEJD_W_CTR:freetext
+Free Text:Sectors\OERD_E_CTR FL345-FL460:freetext
+Free Text:Sectors\OERD_N_CTR FL345-FL460:freetext
+Free Text:Sectors\OERD_NE_CTR FL345-FL460:freetext
 Geo:GEO:
 Geo:HECA:
 Geo:HESH:
@@ -2681,118 +2653,86 @@ Geo:OMAA:
 Geo:OMDB:
 Geo:OMSJ:
 Geo:ORBS:
-Runways:OEJN King Abdulaziz Intl 16C-34C:centerline
-Runways:OEJN King Abdulaziz Intl 16C-34C:extended centerline 1
-Runways:OEJN King Abdulaziz Intl 16C-34C:extended centerline 1 left base
-Runways:OEJN King Abdulaziz Intl 16C-34C:extended centerline 1 left ticks
-Runways:OEJN King Abdulaziz Intl 16C-34C:extended centerline 1 left vectoring
-Runways:OEJN King Abdulaziz Intl 16C-34C:extended centerline 1 right base
-Runways:OEJN King Abdulaziz Intl 16C-34C:extended centerline 1 right ticks
-Runways:OEJN King Abdulaziz Intl 16C-34C:extended centerline 1 right vectoring
-Runways:OEJN King Abdulaziz Intl 16C-34C:extended centerline 2
-Runways:OEJN King Abdulaziz Intl 16C-34C:extended centerline 2 left base
-Runways:OEJN King Abdulaziz Intl 16C-34C:extended centerline 2 left ticks
-Runways:OEJN King Abdulaziz Intl 16C-34C:extended centerline 2 left vectoring
-Runways:OEJN King Abdulaziz Intl 16C-34C:extended centerline 2 right base
-Runways:OEJN King Abdulaziz Intl 16C-34C:extended centerline 2 right ticks
-Runways:OEJN King Abdulaziz Intl 16C-34C:extended centerline 2 right vectoring
-Runways:OEJN King Abdulaziz Intl 16C-34C:name
-Runways:OEJN King Abdulaziz Intl 16L-34R:centerline
-Runways:OEJN King Abdulaziz Intl 16L-34R:extended centerline 1
-Runways:OEJN King Abdulaziz Intl 16L-34R:extended centerline 1 left base
-Runways:OEJN King Abdulaziz Intl 16L-34R:extended centerline 1 left ticks
-Runways:OEJN King Abdulaziz Intl 16L-34R:extended centerline 1 left vectoring
-Runways:OEJN King Abdulaziz Intl 16L-34R:extended centerline 1 right base
-Runways:OEJN King Abdulaziz Intl 16L-34R:extended centerline 1 right ticks
-Runways:OEJN King Abdulaziz Intl 16L-34R:extended centerline 1 right vectoring
-Runways:OEJN King Abdulaziz Intl 16L-34R:extended centerline 2
-Runways:OEJN King Abdulaziz Intl 16L-34R:extended centerline 2 left base
-Runways:OEJN King Abdulaziz Intl 16L-34R:extended centerline 2 left ticks
-Runways:OEJN King Abdulaziz Intl 16L-34R:extended centerline 2 left vectoring
-Runways:OEJN King Abdulaziz Intl 16L-34R:extended centerline 2 right base
-Runways:OEJN King Abdulaziz Intl 16L-34R:extended centerline 2 right ticks
-Runways:OEJN King Abdulaziz Intl 16L-34R:extended centerline 2 right vectoring
-Runways:OEJN King Abdulaziz Intl 16L-34R:name
-Runways:OEJN King Abdulaziz Intl 16R-34L:centerline
-Runways:OEJN King Abdulaziz Intl 16R-34L:extended centerline 1
-Runways:OEJN King Abdulaziz Intl 16R-34L:extended centerline 1 left base
-Runways:OEJN King Abdulaziz Intl 16R-34L:extended centerline 1 left ticks
-Runways:OEJN King Abdulaziz Intl 16R-34L:extended centerline 1 left vectoring
-Runways:OEJN King Abdulaziz Intl 16R-34L:extended centerline 1 right base
-Runways:OEJN King Abdulaziz Intl 16R-34L:extended centerline 1 right ticks
-Runways:OEJN King Abdulaziz Intl 16R-34L:extended centerline 1 right vectoring
-Runways:OEJN King Abdulaziz Intl 16R-34L:extended centerline 2
-Runways:OEJN King Abdulaziz Intl 16R-34L:extended centerline 2 left base
-Runways:OEJN King Abdulaziz Intl 16R-34L:extended centerline 2 left ticks
-Runways:OEJN King Abdulaziz Intl 16R-34L:extended centerline 2 left vectoring
-Runways:OEJN King Abdulaziz Intl 16R-34L:extended centerline 2 right base
-Runways:OEJN King Abdulaziz Intl 16R-34L:extended centerline 2 right ticks
-Runways:OEJN King Abdulaziz Intl 16R-34L:extended centerline 2 right vectoring
-Runways:OEJN King Abdulaziz Intl 16R-34L:name
-Runways:OEMA MADINAH/PRINCE M BIN ABD 17-35:centerline
-Runways:OEMA MADINAH/PRINCE M BIN ABD 17-35:extended centerline 1
-Runways:OEMA MADINAH/PRINCE M BIN ABD 17-35:extended centerline 1 left base
-Runways:OEMA MADINAH/PRINCE M BIN ABD 17-35:extended centerline 1 left ticks
-Runways:OEMA MADINAH/PRINCE M BIN ABD 17-35:extended centerline 1 left vectoring
-Runways:OEMA MADINAH/PRINCE M BIN ABD 17-35:extended centerline 1 right base
-Runways:OEMA MADINAH/PRINCE M BIN ABD 17-35:extended centerline 1 right ticks
-Runways:OEMA MADINAH/PRINCE M BIN ABD 17-35:extended centerline 1 right vectoring
-Runways:OEMA MADINAH/PRINCE M BIN ABD 17-35:extended centerline 2
-Runways:OEMA MADINAH/PRINCE M BIN ABD 17-35:extended centerline 2 left base
-Runways:OEMA MADINAH/PRINCE M BIN ABD 17-35:extended centerline 2 left ticks
-Runways:OEMA MADINAH/PRINCE M BIN ABD 17-35:extended centerline 2 left vectoring
-Runways:OEMA MADINAH/PRINCE M BIN ABD 17-35:extended centerline 2 right base
-Runways:OEMA MADINAH/PRINCE M BIN ABD 17-35:extended centerline 2 right ticks
-Runways:OEMA MADINAH/PRINCE M BIN ABD 17-35:extended centerline 2 right vectoring
-Runways:OEMA MADINAH/PRINCE M BIN ABD 17-35:name
-Runways:OEMA MADINAH/PRINCE M BIN ABD 18-36:centerline
-Runways:OEMA MADINAH/PRINCE M BIN ABD 18-36:extended centerline 1
-Runways:OEMA MADINAH/PRINCE M BIN ABD 18-36:extended centerline 1 left base
-Runways:OEMA MADINAH/PRINCE M BIN ABD 18-36:extended centerline 1 left ticks
-Runways:OEMA MADINAH/PRINCE M BIN ABD 18-36:extended centerline 1 left vectoring
-Runways:OEMA MADINAH/PRINCE M BIN ABD 18-36:extended centerline 1 right base
-Runways:OEMA MADINAH/PRINCE M BIN ABD 18-36:extended centerline 1 right ticks
-Runways:OEMA MADINAH/PRINCE M BIN ABD 18-36:extended centerline 1 right vectoring
-Runways:OEMA MADINAH/PRINCE M BIN ABD 18-36:extended centerline 2
-Runways:OEMA MADINAH/PRINCE M BIN ABD 18-36:extended centerline 2 left base
-Runways:OEMA MADINAH/PRINCE M BIN ABD 18-36:extended centerline 2 left ticks
-Runways:OEMA MADINAH/PRINCE M BIN ABD 18-36:extended centerline 2 left vectoring
-Runways:OEMA MADINAH/PRINCE M BIN ABD 18-36:extended centerline 2 right base
-Runways:OEMA MADINAH/PRINCE M BIN ABD 18-36:extended centerline 2 right ticks
-Runways:OEMA MADINAH/PRINCE M BIN ABD 18-36:extended centerline 2 right vectoring
-Runways:OEMA MADINAH/PRINCE M BIN ABD 18-36:name
-Runways:OERK King Khaled Intl 15L-33R:centerline
-Runways:OERK King Khaled Intl 15L-33R:extended centerline 1
-Runways:OERK King Khaled Intl 15L-33R:extended centerline 1 left base
-Runways:OERK King Khaled Intl 15L-33R:extended centerline 1 left ticks
-Runways:OERK King Khaled Intl 15L-33R:extended centerline 1 left vectoring
-Runways:OERK King Khaled Intl 15L-33R:extended centerline 1 right base
-Runways:OERK King Khaled Intl 15L-33R:extended centerline 1 right ticks
-Runways:OERK King Khaled Intl 15L-33R:extended centerline 1 right vectoring
-Runways:OERK King Khaled Intl 15L-33R:extended centerline 2
-Runways:OERK King Khaled Intl 15L-33R:extended centerline 2 left base
-Runways:OERK King Khaled Intl 15L-33R:extended centerline 2 left ticks
-Runways:OERK King Khaled Intl 15L-33R:extended centerline 2 left vectoring
-Runways:OERK King Khaled Intl 15L-33R:extended centerline 2 right base
-Runways:OERK King Khaled Intl 15L-33R:extended centerline 2 right ticks
-Runways:OERK King Khaled Intl 15L-33R:extended centerline 2 right vectoring
-Runways:OERK King Khaled Intl 15L-33R:name
-Runways:OERK King Khaled Intl 15R-33L:centerline
-Runways:OERK King Khaled Intl 15R-33L:extended centerline 1
-Runways:OERK King Khaled Intl 15R-33L:extended centerline 1 left base
-Runways:OERK King Khaled Intl 15R-33L:extended centerline 1 left ticks
-Runways:OERK King Khaled Intl 15R-33L:extended centerline 1 left vectoring
-Runways:OERK King Khaled Intl 15R-33L:extended centerline 1 right base
-Runways:OERK King Khaled Intl 15R-33L:extended centerline 1 right ticks
-Runways:OERK King Khaled Intl 15R-33L:extended centerline 1 right vectoring
-Runways:OERK King Khaled Intl 15R-33L:extended centerline 2
-Runways:OERK King Khaled Intl 15R-33L:extended centerline 2 left base
-Runways:OERK King Khaled Intl 15R-33L:extended centerline 2 left ticks
-Runways:OERK King Khaled Intl 15R-33L:extended centerline 2 left vectoring
-Runways:OERK King Khaled Intl 15R-33L:extended centerline 2 right base
-Runways:OERK King Khaled Intl 15R-33L:extended centerline 2 right ticks
-Runways:OERK King Khaled Intl 15R-33L:extended centerline 2 right vectoring
-Runways:OERK King Khaled Intl 15R-33L:name
+Runways:OEJN KING ABDULAZIZ INTL 16C-34C:centerline
+Runways:OEJN KING ABDULAZIZ INTL 16C-34C:extended centerline 1
+Runways:OEJN KING ABDULAZIZ INTL 16C-34C:extended centerline 1 left base
+Runways:OEJN KING ABDULAZIZ INTL 16C-34C:extended centerline 1 left ticks
+Runways:OEJN KING ABDULAZIZ INTL 16C-34C:extended centerline 1 left vectoring
+Runways:OEJN KING ABDULAZIZ INTL 16C-34C:extended centerline 1 right base
+Runways:OEJN KING ABDULAZIZ INTL 16C-34C:extended centerline 1 right ticks
+Runways:OEJN KING ABDULAZIZ INTL 16C-34C:extended centerline 1 right vectoring
+Runways:OEJN KING ABDULAZIZ INTL 16C-34C:extended centerline 2
+Runways:OEJN KING ABDULAZIZ INTL 16C-34C:extended centerline 2 left base
+Runways:OEJN KING ABDULAZIZ INTL 16C-34C:extended centerline 2 left ticks
+Runways:OEJN KING ABDULAZIZ INTL 16C-34C:extended centerline 2 left vectoring
+Runways:OEJN KING ABDULAZIZ INTL 16C-34C:extended centerline 2 right base
+Runways:OEJN KING ABDULAZIZ INTL 16C-34C:extended centerline 2 right ticks
+Runways:OEJN KING ABDULAZIZ INTL 16C-34C:extended centerline 2 right vectoring
+Runways:OEJN KING ABDULAZIZ INTL 16C-34C:name
+Runways:OEJN KING ABDULAZIZ INTL 16L-34R:centerline
+Runways:OEJN KING ABDULAZIZ INTL 16L-34R:extended centerline 1
+Runways:OEJN KING ABDULAZIZ INTL 16L-34R:extended centerline 1 left base
+Runways:OEJN KING ABDULAZIZ INTL 16L-34R:extended centerline 1 left ticks
+Runways:OEJN KING ABDULAZIZ INTL 16L-34R:extended centerline 1 left vectoring
+Runways:OEJN KING ABDULAZIZ INTL 16L-34R:extended centerline 1 right base
+Runways:OEJN KING ABDULAZIZ INTL 16L-34R:extended centerline 1 right ticks
+Runways:OEJN KING ABDULAZIZ INTL 16L-34R:extended centerline 1 right vectoring
+Runways:OEJN KING ABDULAZIZ INTL 16L-34R:extended centerline 2
+Runways:OEJN KING ABDULAZIZ INTL 16L-34R:extended centerline 2 left base
+Runways:OEJN KING ABDULAZIZ INTL 16L-34R:extended centerline 2 left ticks
+Runways:OEJN KING ABDULAZIZ INTL 16L-34R:extended centerline 2 left vectoring
+Runways:OEJN KING ABDULAZIZ INTL 16L-34R:extended centerline 2 right base
+Runways:OEJN KING ABDULAZIZ INTL 16L-34R:extended centerline 2 right ticks
+Runways:OEJN KING ABDULAZIZ INTL 16L-34R:extended centerline 2 right vectoring
+Runways:OEJN KING ABDULAZIZ INTL 16L-34R:name
+Runways:OEJN KING ABDULAZIZ INTL 16R-34L:centerline
+Runways:OEJN KING ABDULAZIZ INTL 16R-34L:extended centerline 1
+Runways:OEJN KING ABDULAZIZ INTL 16R-34L:extended centerline 1 left base
+Runways:OEJN KING ABDULAZIZ INTL 16R-34L:extended centerline 1 left ticks
+Runways:OEJN KING ABDULAZIZ INTL 16R-34L:extended centerline 1 left vectoring
+Runways:OEJN KING ABDULAZIZ INTL 16R-34L:extended centerline 1 right base
+Runways:OEJN KING ABDULAZIZ INTL 16R-34L:extended centerline 1 right ticks
+Runways:OEJN KING ABDULAZIZ INTL 16R-34L:extended centerline 1 right vectoring
+Runways:OEJN KING ABDULAZIZ INTL 16R-34L:extended centerline 2
+Runways:OEJN KING ABDULAZIZ INTL 16R-34L:extended centerline 2 left base
+Runways:OEJN KING ABDULAZIZ INTL 16R-34L:extended centerline 2 left ticks
+Runways:OEJN KING ABDULAZIZ INTL 16R-34L:extended centerline 2 left vectoring
+Runways:OEJN KING ABDULAZIZ INTL 16R-34L:extended centerline 2 right base
+Runways:OEJN KING ABDULAZIZ INTL 16R-34L:extended centerline 2 right ticks
+Runways:OEJN KING ABDULAZIZ INTL 16R-34L:extended centerline 2 right vectoring
+Runways:OEJN KING ABDULAZIZ INTL 16R-34L:name
+Runways:OERK KING KHALED INTL 15L-33R:centerline
+Runways:OERK KING KHALED INTL 15L-33R:extended centerline 1
+Runways:OERK KING KHALED INTL 15L-33R:extended centerline 1 left base
+Runways:OERK KING KHALED INTL 15L-33R:extended centerline 1 left ticks
+Runways:OERK KING KHALED INTL 15L-33R:extended centerline 1 left vectoring
+Runways:OERK KING KHALED INTL 15L-33R:extended centerline 1 right base
+Runways:OERK KING KHALED INTL 15L-33R:extended centerline 1 right ticks
+Runways:OERK KING KHALED INTL 15L-33R:extended centerline 1 right vectoring
+Runways:OERK KING KHALED INTL 15L-33R:extended centerline 2
+Runways:OERK KING KHALED INTL 15L-33R:extended centerline 2 left base
+Runways:OERK KING KHALED INTL 15L-33R:extended centerline 2 left ticks
+Runways:OERK KING KHALED INTL 15L-33R:extended centerline 2 left vectoring
+Runways:OERK KING KHALED INTL 15L-33R:extended centerline 2 right base
+Runways:OERK KING KHALED INTL 15L-33R:extended centerline 2 right ticks
+Runways:OERK KING KHALED INTL 15L-33R:extended centerline 2 right vectoring
+Runways:OERK KING KHALED INTL 15L-33R:name
+Runways:OERK KING KHALED INTL 15R-33L:centerline
+Runways:OERK KING KHALED INTL 15R-33L:extended centerline 1
+Runways:OERK KING KHALED INTL 15R-33L:extended centerline 1 left base
+Runways:OERK KING KHALED INTL 15R-33L:extended centerline 1 left ticks
+Runways:OERK KING KHALED INTL 15R-33L:extended centerline 1 left vectoring
+Runways:OERK KING KHALED INTL 15R-33L:extended centerline 1 right base
+Runways:OERK KING KHALED INTL 15R-33L:extended centerline 1 right ticks
+Runways:OERK KING KHALED INTL 15R-33L:extended centerline 1 right vectoring
+Runways:OERK KING KHALED INTL 15R-33L:extended centerline 2
+Runways:OERK KING KHALED INTL 15R-33L:extended centerline 2 left base
+Runways:OERK KING KHALED INTL 15R-33L:extended centerline 2 left ticks
+Runways:OERK KING KHALED INTL 15R-33L:extended centerline 2 left vectoring
+Runways:OERK KING KHALED INTL 15R-33L:extended centerline 2 right base
+Runways:OERK KING KHALED INTL 15R-33L:extended centerline 2 right ticks
+Runways:OERK KING KHALED INTL 15R-33L:extended centerline 2 right vectoring
+Runways:OERK KING KHALED INTL 15R-33L:name
 Sids:OEJN_34L:
 VORs:AAR:frequency
 VORs:AAR:name
@@ -2827,9 +2767,6 @@ VORs:BDB:symbol
 VORs:BHA:frequency
 VORs:BHA:name
 VORs:BHA:symbol
-VORs:BHT:frequency
-VORs:BHT:name
-VORs:BHT:symbol
 VORs:BPN:frequency
 VORs:BPN:name
 VORs:BPN:symbol
@@ -2854,9 +2791,6 @@ VORs:GIZ:symbol
 VORs:GRY:frequency
 VORs:GRY:name
 VORs:GRY:symbol
-VORs:GZA:frequency
-VORs:GZA:name
-VORs:GZA:symbol
 VORs:HFR:frequency
 VORs:HFR:name
 VORs:HFR:symbol
@@ -2872,12 +2806,6 @@ VORs:HSA:symbol
 VORs:JDW:frequency
 VORs:JDW:name
 VORs:JDW:symbol
-VORs:JI:frequency
-VORs:JI:name
-VORs:JI:symbol
-VORs:JSK:frequency
-VORs:JSK:name
-VORs:JSK:symbol
 VORs:KAM:frequency
 VORs:KAM:name
 VORs:KAM:symbol
@@ -2890,18 +2818,12 @@ VORs:KIA:symbol
 VORs:KMC:frequency
 VORs:KMC:name
 VORs:KMC:symbol
-VORs:LOT:frequency
-VORs:LOT:name
-VORs:LOT:symbol
 VORs:MGA:frequency
 VORs:MGA:name
 VORs:MGA:symbol
 VORs:NEJ:frequency
 VORs:NEJ:name
 VORs:NEJ:symbol
-VORs:OVD:frequency
-VORs:OVD:name
-VORs:OVD:symbol
 VORs:PMA:frequency
 VORs:PMA:name
 VORs:PMA:symbol
@@ -2930,17 +2852,8 @@ VORs:SHA:frequency
 VORs:SHA:name
 VORs:SHA:symbol
 VORs:SHM:frequency
-VORs:SHM:frequency
-VORs:SHM:name
 VORs:SHM:name
 VORs:SHM:symbol
-VORs:SHM:symbol
-VORs:TAB:frequency
-VORs:TAB:name
-VORs:TAB:symbol
-VORs:TBA:frequency
-VORs:TBA:name
-VORs:TBA:symbol
 VORs:TBK:frequency
 VORs:TBK:name
 VORs:TBK:symbol
@@ -2962,9 +2875,6 @@ VORs:WEJ:symbol
 VORs:YEN:frequency
 VORs:YEN:name
 VORs:YEN:symbol
-VORs:ZFR:frequency
-VORs:ZFR:name
-VORs:ZFR:symbol
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -2977,4 +2887,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:GSiT
-WINDOWAREA:11.354888:18.814761:34.703296:72.077173
+WINDOWAREA:15.629162:20.887808:34.389381:63.501161
