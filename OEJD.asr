@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:\OEJD.sct
+SECTORFILE:C:\Users\Syam\Desktop\saudi-arabia\OEJD.sct
 SECTORTITLE:OEJD.sct
 Airports:OEAB:name
 Airports:OEAD:name
@@ -2592,16 +2592,16 @@ Free Text:ORBS\S5:freetext
 Free Text:ORBS\S6:freetext
 Free Text:ORBS\W:freetext
 Free Text:ORBS\X:freetext
+Free Text:Sectors\OEJD_B_CTR SFC-FL345:freetext
 Free Text:Sectors\OEJD_C_CTR:freetext
 Free Text:Sectors\OEJD_E_CTR SFC-FL345:freetext
 Free Text:Sectors\OEJD_N_CTR SFC-FL345:freetext
-Free Text:Sectors\OEJD_NE_CTR SFC-FL345:freetext
 Free Text:Sectors\OEJD_S_CTR:freetext
-Free Text:Sectors\OEJD_SE_CTR:freetext
+Free Text:Sectors\OEJD_U_CTR:freetext
 Free Text:Sectors\OEJD_W_CTR:freetext
+Free Text:Sectors\OERD_B_CTR FL345-FL460:freetext
 Free Text:Sectors\OERD_E_CTR FL345-FL460:freetext
 Free Text:Sectors\OERD_N_CTR FL345-FL460:freetext
-Free Text:Sectors\OERD_NE_CTR FL345-FL460:freetext
 Geo:GEO:
 Geo:HECA:
 Geo:HESH:

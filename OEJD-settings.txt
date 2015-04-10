@@ -631,14 +631,14 @@ END
 VOICE
 AG:OEJD_CTR:134.300:voice1.vatsim-germany.org:oejd_ctr
 AG:OEJD_N_CTR:128.750:voice1.vatsim-germany.org:oejd_n_ctr
-AG:OEJD_NE_CTR:127.650:voice1.vatsim-germany.org:oejd_ne_ctr
-AG:OEJD_SE_CTR:134.500:voice1.vatsim-germany.org:oejd_se_ctr
+AG:OEJD_B_CTR:127.650:voice1.vatsim-germany.org:oejd_b_ctr
+AG:OEJD_U_CTR:134.500:voice1.vatsim-germany.org:oejd_u_ctr
 AG:OEJD_S_CTR:132.100:voice1.vatsim-germany.org:oejd_s_ctr
 AG:OEJD_W_CTR:132.600:voice1.vatsim-germany.org:oejd_w_ctr
 AG:OEJD_C_CTR:126.500:voice1.vatsim-germany.org:oejd_c_ctr
 AG:OEJD_E_CTR:134.400:voice1.vatsim-germany.org:oejd_e_ctr
 AG:OERD_N_CTR:134.800:voice1.vatsim-germany.org:oerd_n_ctr
-AG:OERD_NE_CTR:119.350:voice1.vatsim-germany.org:oerd_ne_ctr
+AG:OERD_B_CTR:119.350:voice1.vatsim-germany.org:oerd_b_ctr
 AG:OERD_E_CTR:132.500:voice1.vatsim-germany.org:oerd_e_ctr
 AG:OEJN_TWR:118.200:voice1.vatsim-germany.org:oejn_twr
 AG:OEJN_2_TWR:124.300:voice1.vatsim-germany.org:oejn_2_twr
